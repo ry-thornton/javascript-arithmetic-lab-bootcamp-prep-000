@@ -44,5 +44,5 @@ b = Math.floor(Math.random() * 1000)
 
 function inc(n)
 {
-  n += 1
+  return (n += 1)
 }
