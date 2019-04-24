@@ -46,3 +46,12 @@ function inc(n)
 {
   return (n += 1)
 }
+
+var a, b
+a = Math.floor(Math.random() * 1000)
+b = Math.floor(Math.random() * 1000)
+
+function dec(n)
+{
+  return (n -= 1)
+}
