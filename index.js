@@ -60,7 +60,7 @@ var a, b
 a = Math.floor(Math.random() * 1000)
 b = Math.floor(Math.random() * 1000)
 
-function makeInt(n)
+function makeInt(a)
 {
-  return (parseInt('n', 10))
+  return (parseInt('a', 10))
 }
