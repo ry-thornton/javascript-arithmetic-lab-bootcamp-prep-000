@@ -62,11 +62,12 @@ b = Math.floor(Math.random() * 1000)
 
 function makeInt(n)
 {
-  return (parseInt('n', 10))
-  function makeInt('0x2328')
+  return (parseInt(n, 10))
+  function makeInt(n)
   {
-    return 0
+    return 
   }
+  
 }
 
 var a, b
