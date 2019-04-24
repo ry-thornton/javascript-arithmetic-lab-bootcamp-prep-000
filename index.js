@@ -63,6 +63,7 @@ b = Math.floor(Math.random() * 1000)
 function makeInt(n)
 {
   return (parseInt('n', 10))
+  function makeInt('0x')
 }
 
 var a, b
